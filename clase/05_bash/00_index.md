@@ -1,6 +1,6 @@
-:::homework{id="5.0" title="Examen: Terminal, Bash y Sistemas Operativos" due="2026-02-03" points="10"}
+:::exam{id="5.E" title="Examen: Terminal, Bash y Sistemas Operativos" date="2026-02-03" duration="1 hora"}
 
-Examen en clase sobre los módulos 4 (Terminal) y 5 (Bash).
+Examen en clase sobre los módulos 4 (Terminal) y 5 (Bash). Vale 10 puntos.
 
 **Temas:**
 - Sistemas Operativos, Terminal y Bash

@@ -1,6 +1,6 @@
-:::homework{id="6.E" title="Examen: Git y GitHub" due="2026-02-05" points="10"}
+:::exam{id="6.E" title="Examen: Git y GitHub" date="2026-02-05" duration="1 hora"}
 
-Examen en clase sobre el módulo 6 (Git y GitHub).
+Examen en clase sobre el módulo 6 (Git y GitHub). Vale 10 puntos.
 
 **Temas:**
 - Flujo de trabajo: Sync → Branch → Work → Push → PR
