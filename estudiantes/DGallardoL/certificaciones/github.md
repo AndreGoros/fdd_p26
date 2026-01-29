@@ -6,3 +6,7 @@
 ## Evidencia
 
 [Certificado GitHub](./CertificadoDamianG1.pdf)
+
+## Evidencia adicional
+
+[Certificate](./certificate.pdf)
