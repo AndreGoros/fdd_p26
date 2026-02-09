@@ -7,3 +7,6 @@
 
 ![Certificado GitHub](./evidencia_github.png)
 
+## GitHub Intermediate
+
+![Certificado GitHub Intermediate](./GIT-INTERMEDIO.png)
